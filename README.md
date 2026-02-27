@@ -1,6 +1,6 @@
 # 🧠📚 Job Interview Guide Workshop & LLM Simulation
 
-**Course:** PROG8010 - Applied AI & Machine Learning  
+**Course:** CSCN8010 - Applied AI & Machine Learning  
 **Group 2 Members:** 
 - Ali Cihan Ozdemir (9091405)
 - Lohith Reddy Danda (9054470)

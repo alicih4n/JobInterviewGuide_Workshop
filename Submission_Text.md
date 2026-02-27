@@ -1,6 +1,6 @@
 # Submission Text
 
-**Course & Assignment Title:** PROG8010 Job Interview Guide Workshop
+**Course & Assignment Title:** CSCN8010 Job Interview Guide Workshop
 
 **Group Info:**
 - Group 2 Members: Ali Cihan Ozdemir (9091405), Lohith Reddy Danda (9054470).
